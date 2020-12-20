@@ -1,0 +1,3 @@
+include ':roundimageview'
+include ':app'
+rootProject.name = "RoundImageView"
